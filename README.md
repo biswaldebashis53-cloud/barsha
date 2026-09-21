@@ -1,2 +1,3 @@
 # barsha
-This is my First git repository
+This is My First Git Repository.
+Author : Barsha Priyadarshinee
